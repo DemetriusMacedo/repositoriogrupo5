@@ -1,1 +1,1 @@
-'Bruno' "São Paulo"
+'Bruno'; 'São Paulo'
